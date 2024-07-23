@@ -1,4 +1,4 @@
-pip
+pip==24.1.2
 asttokens==2.4.1
 backcall==0.2.0
 blinker==1.7.0
